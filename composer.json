@@ -1,0 +1,17 @@
+{
+  "name": "vbinh-dev/wp-framework",
+  "description": "WordPress Application Framework",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Van Binh",
+      "email": "vbinh.dev@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "VbDev\\WpFramework\\": "src/"
+    }
+  },
+  "require": {}
+}
